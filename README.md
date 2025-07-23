@@ -6,4 +6,4 @@ GraphQL
 
     https://fullstackopen.com/es/part8
 
-    https://github.com/AngieToro/Fullstack_Course_Angelica/tree/master/part8
+    https://github.com/AngieToro/Fullstack_Course_GraphQL
