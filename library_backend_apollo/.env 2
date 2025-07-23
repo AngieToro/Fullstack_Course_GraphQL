@@ -1,0 +1,7 @@
+MONGO_DB_USER=fullstackopen
+MONGO_DB_PASSWORD=1234567890
+MONGO_DB_NAME=libraryApp
+MONGO_DB_CLUSTER=cluster0.ekqywow.mongodb.net
+PORT=4000
+HOST=localhost
+JWT_SECRET=misuperclavesecreta
